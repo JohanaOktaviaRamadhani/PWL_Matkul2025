@@ -17,7 +17,6 @@ Di repository ini, saya akan membagikan berbagai tugas, latihan, dan eksplorasi 
 
 ## 💡 Teknologi yang Digunakan  
 - 🌐 **PHP**  
-- 🛠 **PHP** untuk backend  
 - 🗄 **Laragon** untuk penyimpanan data  
 - 🔧 **Git & GitHub** untuk version control  
 - 🖥 **Visual Studio Code** sebagai code editor  
@@ -26,5 +25,5 @@ Di repository ini, saya akan membagikan berbagai tugas, latihan, dan eksplorasi 
 
 ## 🔗 Let's Connect!  
 📧 **LinkedIn:** [Johana Oktavia](https://www.linkedin.com/in/johanaoktavia/)  
-📍 **[Nama Universitas Kamu]**  
+📍 **Universitas Dian Nuswantoro**  
 
